@@ -3,16 +3,17 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 // import newcalendar from './newcalendar'
-import reportWebVitals from './reportWebVitals';
-import Calendar from 'react-calendar'
+// import reportWebVitals from './reportWebVitals';
+// import Calendar from 'react-calendar'
 import 'react-calendar/dist/Calendar.css';
-
+import Newfullcalendar from './fullcalendar'
 
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
-    Hello World!
+    {/* <App /> */}
+    {/* Hello World! */}
+    <Newfullcalendar/>
     {/* <Calendar />
     <App /> */}
     {/* <NewCalendar /> */}
