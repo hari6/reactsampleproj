@@ -11,9 +11,9 @@ import Newfullcalendar from './fullcalendar'
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
+    <App />
     {/* Hello World! */}
-    <Newfullcalendar/>
+    {/* <Newfullcalendar/> */}
     {/* <Calendar />
     <App /> */}
     {/* <NewCalendar /> */}
